@@ -1,6 +1,6 @@
 ___________________________________________________________________________________________
 
-Open Source Conference 2021 : Research Phase : What open source projects are available?
+Open Source Conference 2021 : Research Phase : What open source projects and IDEAS are available?
 
 In this repository, we list all the open source projects for review, so that we know what's available out there in the open source world.
 
@@ -10,7 +10,7 @@ Official Website : https://www.osconf.org [ Under Construction ]
 
 ___________________________________________________________________________________________
 
-How to list ? ( example in Video Conferencing Tools )
+How to contribute existing Open Source Projects ? ( example in Video Conferencing Tools )
 ___________________________________________________________________________________________
 
 Video Conferencing Tools
@@ -33,5 +33,19 @@ License : Apache 2.0
 
 Link to Github : https://github.com/jitsi/
 
+
+___________________________________________________________________________________________
+
+How to submit open source Project Ideas ? See example below.
+
+( Please submit in PROPOSALS.md ) 
+___________________________________________________________________________________________
+
+
+a. Millennials Deserve a Break — Here it is … 
+
+https://medium.com/@pullnews/millennials-deserve-a-break-here-it-is-77b4ebc6a755 Retrieved as on 03.08.2020 
+
+Author : David Siegel ( dsiegel.com ) 
 
 _________________________________________________________________
