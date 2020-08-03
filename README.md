@@ -44,8 +44,8 @@ ________________________________________________________________________________
 
 a. Millennials Deserve a Break — Here it is … 
 
-https://medium.com/@pullnews/millennials-deserve-a-break-here-it-is-77b4ebc6a755 Retrieved as on 03.08.2020 
+	https://medium.com/@pullnews/millennials-deserve-a-break-here-it-is-77b4ebc6a755 Retrieved as on 03.08.2020 
 
-Author : David Siegel ( dsiegel.com ) 
+	Author : David Siegel ( dsiegel.com ) 
 
 _________________________________________________________________
