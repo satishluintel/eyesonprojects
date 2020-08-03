@@ -38,7 +38,7 @@ Link to Github : https://github.com/jitsi/
 
 ___________________________________________________________________________________________
 
-## How to submit open source Project Ideas ? See example below.
+## How to submit open source Project Ideas ? See sample below. The reference/sample below is/are not a submission to this repository by its Author.
 
 ( Please submit in PROPOSALS.md ) 
 ___________________________________________________________________________________________
