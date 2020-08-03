@@ -1,6 +1,6 @@
 ___________________________________________________________________________________________
 
-Open Source Conference 2021 : Research Phase : What open source projects and IDEAS are available?
+# Open Source Conference 2021 : Research Phase : What open source projects and IDEAS are available?
 
 In this repository, we list all the open source projects for review, so that we know what's available out there in the open source world.
 
@@ -10,7 +10,7 @@ Official Website : https://www.osconf.org [ Under Construction ]
 
 ___________________________________________________________________________________________
 
-How to contribute existing Open Source Projects ? ( example in Video Conferencing Tools )
+## How to contribute existing Open Source Projects ? ( example in Video Conferencing Tools )
 ___________________________________________________________________________________________
 
 Video Conferencing Tools
@@ -36,7 +36,7 @@ Link to Github : https://github.com/jitsi/
 
 ___________________________________________________________________________________________
 
-How to submit open source Project Ideas ? See example below.
+## How to submit open source Project Ideas ? See example below.
 
 ( Please submit in PROPOSALS.md ) 
 ___________________________________________________________________________________________
