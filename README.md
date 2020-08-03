@@ -7,9 +7,31 @@ In this repository, we list all the open source projects for review, so that we 
 After reviewing, we shall invite speakers representing some of the projects passing our review for the OPEN SOURCE CONFERENCE 2021. The venue is yet to be decided. 
 
 Official Website : https://www.osconf.org [ Under Construction ] 
+
 ___________________________________________________________________________________________
 
-This is a list of open source projects that are available in Github and outside Github. 
+How to list ? ( example in Video Conferencing Tools )
+___________________________________________________________________________________________
 
-Please feel free to contribute, or submit us pull requests.
+Video Conferencing Tools
+
+a. JITSI https://meet.jit.si/
+
+Free Video Chat platform.
+
+Features :
+
+	i. Claims to be End-to-End encrypted. golf   
+
+	👓 Not audited/verified by OSCONF.ORG committee. 👓 
+
+	ii. Available as Web/Phone App.
+
+Supports : Windows , MacOS , Linux
+
+License : Apache 2.0
+
+Link to Github : https://github.com/jitsi/
+
+
 _________________________________________________________________
