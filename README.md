@@ -11,5 +11,5 @@ ________________________________________________________________________________
 
 This is a list of open source projects that are available in Github and outside Github. 
 
-Please feel free to contribute, or submit us pull requests if you are a open source platform. 
+Please feel free to contribute, or submit us pull requests.
 _________________________________________________________________
