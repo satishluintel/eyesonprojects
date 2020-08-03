@@ -28,5 +28,26 @@ Link to Github : https://github.com/jgraph/drawio
 --------------------------
 
 b. 
-_________________________________________________________________
 
+_________________________________________________________________
+Video Conferencing Tools
+--------------------------
+
+a. JITSI https://meet.jit.si/
+
+Free Video Chat platform.
+
+Features : 
+i. Claims to be End-to-End encrypted.  ⛳️ Not audited/verified by OSCONF.ORG committee.
+ii. Available as Web/Phone App.
+
+Supports : Windows , MacOS , Linux
+
+License : Apache 2.0 
+
+Link to Github : https://github.com/jitsi/
+
+--------------------------
+
+b. 
+_________________________________________________________________
