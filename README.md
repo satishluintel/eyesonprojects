@@ -2,11 +2,17 @@ ________________________________________________________________________________
 
 # Open Source Conference 2021
 
-### Research Phase : What open source projects and IDEAS are available?
+
+## There will be the first Open Source Conference 2021, in 2021, organized by OSCONF.ORG.
+
+
+### Research Phase : What open source projects and IDEAS are available? We are looking for awesome open source projects.
 
 In this repository, we list all the open source projects for review, so that we know what's available out there in the open source world.
 
-After reviewing, we shall invite speakers representing some of the projects passing our review for the OPEN SOURCE CONFERENCE 2021. The venue is yet to be decided. 
+After reviewing, we shall invite speakers representing some of the projects passing our review for the OPEN SOURCE CONFERENCE 2021. The venue is yet to be decided. We expect to invite some big names in the open source community. 
+
+We need your help to make this happen. Please contribute as much as possible. We will add more.
 
 Official Website : https://www.osconf.org [ Under Construction ] 
 
