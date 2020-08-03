@@ -1,6 +1,8 @@
 ___________________________________________________________________________________________
 
-# Open Source Conference 2021 : Research Phase : What open source projects and IDEAS are available?
+# Open Source Conference 2021
+
+### Research Phase : What open source projects and IDEAS are available?
 
 In this repository, we list all the open source projects for review, so that we know what's available out there in the open source world.
 
