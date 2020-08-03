@@ -21,7 +21,7 @@ Free Video Chat platform.
 
 Features :
 
-	i. Claims to be End-to-End encrypted. golf   
+	i. Claims to be End-to-End encrypted. 
 
 	👓 Not audited/verified by OSCONF.ORG committee. 👓 
 
