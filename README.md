@@ -25,7 +25,6 @@ License : Apache 2.0
 
 Link to Github : https://github.com/jgraph/drawio
 
---------------------------
 
 b. 
 
@@ -47,7 +46,6 @@ License : Apache 2.0
 
 Link to Github : https://github.com/jitsi/
 
---------------------------
 
 b. 
 _________________________________________________________________
