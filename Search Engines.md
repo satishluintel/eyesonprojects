@@ -2,7 +2,7 @@ SEARCH ENGINES
 
 a. MEILISEARCH https://www.meilisearch.com/
 
-Free Search Engine. MIT LICENSE # ✅ 
+Free Search Engine.  ✅  MIT LICENSE  ✅ 
 
 Features :
 
